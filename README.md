@@ -2,10 +2,8 @@
 
 ### Project Overview
 
->This system will user to submit complaints or feedbacks on any sort of public services.
-
->The system should be able to receive, categorize, and route submissions to the appropriate government agency.
-    
+>This system will user to submit complaints or feedbacks on any sort of public services.\
+>The system should be able to receive, categorize, and route submissions to the appropriate government agency.\
 >It should also support basic tracking (e.g., ticket status) and allow institutions/government to respond.
 
 ### Core Features
