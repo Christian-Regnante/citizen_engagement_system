@@ -48,10 +48,11 @@
 ### Project Structure(MVC Style)
 
     citizen_engagement_system/
+    ├── index.php               # Home page
     ├── citizen/
-    │   ├── signup.php
-    │   ├── login.php
-    │   ├── dashboard.php
+    │   ├── signup.php          # Signing Page
+    │   ├── login.php           # Login Page
+    │   ├── dashboard.php       # User Dashboard
     │   ├── submit.php          # Handles form submission
     │   └── status.php          # Citizen status checker 
     ├── admin/
